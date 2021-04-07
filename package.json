@@ -1,7 +1,7 @@
 {
   "name": "hulan-intake-boilerplate",
   "description": "Hulan Intake Boilerplate",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "@types/node": "12.12.41",
