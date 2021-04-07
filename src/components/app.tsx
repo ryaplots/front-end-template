@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 
 export const App: FC = () => (
   <div
@@ -18,7 +18,7 @@ export const App: FC = () => (
     <p>
       Voel je vrij om met dit project te doen wat jij denkt dat nodig is om aan
       de opdracht te voldoen! Je bent absoluut niet beperkt tot de 'src'
-      directory.{" "}
+      directory.
       <span role="img" aria-label="Knipoog emoji">
         😉
       </span>
