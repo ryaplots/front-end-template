@@ -10,10 +10,10 @@ export const App: FC = () => (
       margin: "0 auto",
     }}
   >
-    <h1>Hello, world!</h1>
+    <h1>Hello, Hulan!</h1>
     <p>
-      Welkom in het Hulan intake-project. Een foutloze npm start is het halve
-      werk, en zo te zien ben jij al goed op weg.
+      Welkom in de Hulan Intake Front-End template. Een foutloze npm start is
+      het halve werk, en zo te zien ben jij al goed op weg.
     </p>
     <p>
       Voel je vrij om met dit project te doen wat jij denkt dat nodig is om aan
