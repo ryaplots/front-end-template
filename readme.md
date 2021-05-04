@@ -1,31 +1,25 @@
-# Front-End Template
+# Hulan Intake Front-End Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dit project is gebootstrapped met [Create React App](https://github.com/facebook/create-react-app). Voor meer informatie bekijk de [Create React App documentatie](https://facebook.github.io/create-react-app/docs/getting-started). Om meer te leren over React, check de [React documentatie](https://reactjs.org/), maar dit moet wel goed zitten toch?
 
-## Available Scripts
+## Start de ontwikkelomgeving
 
-In the project directory, you can run:
+```sh
+$ npm start
+```
 
-### `npm start`
+Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Gespendeerde tijd
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+_Vul hier je gespendeerde tijd in_
 
-### `npm run build`
+## Zelfreflectie
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### Wat had ik anders gedaan als ik meer tijd had
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+_Vul hier in wat je anders had gedaan als je veel meer tijd had en waarom_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##### Dit vond ik het leukst om aan te werken
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+_Vul hier in wat je het leukst vond tijdens het werken aan deze intake opdracht_
