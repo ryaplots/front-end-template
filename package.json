@@ -2,7 +2,7 @@
   "name": "front-end-template",
   "description": "Hulan Intake Front-End Template",
   "author": "Hulan",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "dependencies": {
     "react": "17.0.2",
