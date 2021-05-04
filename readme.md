@@ -18,7 +18,7 @@ _Vul hier je gespendeerde tijd in_
 
 ##### Wat had ik anders gedaan als ik meer tijd had
 
-_Vul hier in wat je anders had gedaan als je veel meer tijd had en waarom_
+_Vul hier in wat je anders of beter had gedaan als je veel meer tijd had gehad en waarom_
 
 ##### Dit vond ik het leukst om aan te werken
 
