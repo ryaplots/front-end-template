@@ -5,6 +5,7 @@ Dit project is gebootstrapped met [Create React App](https://github.com/facebook
 ## Start de ontwikkelomgeving
 
 ```sh
+$ npm install
 $ npm start
 ```
 
