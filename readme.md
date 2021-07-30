@@ -26,5 +26,5 @@ _Vul hier in wat je anders of beter had gedaan als je veel meer tijd had gehad e
 _Vul hier in wat je het leukst vond tijdens het werken aan deze intake opdracht_
 
 
-###### TODO
+#### TODO
 1. detailed overview of beer/brewery (brewery in which are sold/show beers they sell)
