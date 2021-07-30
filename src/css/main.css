@@ -1,0 +1,92 @@
+:root {
+    --primair: #262C2D;
+    --secundair: #3D4547;
+    --light: #979797;
+    --tekst: #8F9499;
+    --achtergrond: #F8F8F8;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    color: var(--primair);
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--primair);
+}
+p {
+    font-size: 16px;
+    font-weight: normal;
+    color: var(--tekst);
+}
+
+.link a {
+    font-size: 16px;
+    font-weight: normal;
+    color: var(--primair);
+    text-decoration: none;
+
+}
+.input {
+    margin: 0px 0px 30px;
+    width: 100%;
+    text-align: center;
+}
+input {
+    width: 60%;
+}
+form {
+    text-align: left;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.25);
+    width: 100%;
+    margin: 10px auto 30px;
+    padding: 30px 0px 0px;
+}
+button {
+    cursor: pointer;
+    background-color: var(--primair);
+    border-radius: 0px;
+    border: none;
+    padding: 20px 0px;
+    color: white;
+    width: 100%;
+}
+.welcome {
+    text-align: center;
+}
+.add {
+    font-size: 26px;
+    cursor: pointer;
+    float: right;
+}
+.container {
+    padding-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.25);
+}
+.container .control {
+    display: flex;
+    justify-content: flex-end;
+}
+.container button {
+    width: 49.8%;
+}
+.container p, .container h2 {
+    margin: 30px 30px 0px 5px;
+    line-height: 1.5rem;
+}
+.container p {
+    margin: 30px;
+}
+.container img {
+    height: 30px;
+    width: auto;
+    margin: 20px 0px 0px 15px;
+}
+select {
+    width: 60%;
+    border-radius: 3px;
+    border: solid 1px var(--light)
+}
