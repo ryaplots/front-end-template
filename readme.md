@@ -26,19 +26,5 @@ _Vul hier in wat je anders of beter had gedaan als je veel meer tijd had gehad e
 _Vul hier in wat je het leukst vond tijdens het werken aan deze intake opdracht_
 
 
-overview of breweries:
-1. see and edit breweries;
-2. add brewery;
-2. link a beer;
-4. remove brewery;
-
-overview of beers:
-1. see and edit beer;
-2. add beer;
-2. link a brewery;
-4. remove beer;
-
 # TODO
-1. show beers sold in brewery
-4. link brewery to beer
-5. link beer to brewery
+1. detailed overview of beer/brewery (brewery in which are sold/show beers they sell)
